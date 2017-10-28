@@ -1,0 +1,28 @@
+package com.practice.ds.alogs;
+
+public class Programme1 {
+
+	public static void main(String[] args) {
+		simpleFunction(1000);
+		simplefunction2(1000);
+	}
+	
+	public static void simpleFunction(int n){
+		int a = 9;
+		int b = 3;
+		
+		int sum = a +b +n;
+		int product = a*b*n;
+		int quotient = a* n/b;
+		
+		System.out.println(String.format("The sum is : %s, product is : %s and the quotient is : %s", sum,product,quotient));
+		
+	}
+	
+	public static void simplefunction2(int n){
+		for(int i=0;i<n;i++){
+			System.out.println(String.format("Square of %s is %s",i,Math.pow(i, 2.0) ));
+		}
+	}
+
+}

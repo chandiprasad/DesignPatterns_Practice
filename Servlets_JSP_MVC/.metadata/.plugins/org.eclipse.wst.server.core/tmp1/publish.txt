@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue Jan 10 20:13:54 IST 2017
+org.eclipse.jst.jee.server\:/binary\:C\:\\IBM_Data\\JAVA_Practice\\Servlets_JSP_MVC\\springmvc-examples\\app22a\\WebContent\\WEB-INF\\lib\\spring-web-4.1.1.RELEASE.jar=WEB-INF/lib/spring-web-4.1.1.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\IBM_Data\\JAVA_Practice\\Servlets_JSP_MVC\\springmvc-examples\\app21b\\WebContent\\WEB-INF\\lib\\spring-web-4.1.1.RELEASE.jar=WEB-INF/lib/spring-web-4.1.1.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\IBM_Data\\JAVA_Practice\\Servlets_JSP_MVC\\springmvc-examples\\app21a\\WebContent\\WEB-INF\\lib\\spring-web-4.1.1.RELEASE.jar=WEB-INF/lib/spring-web-4.1.1.RELEASE.jar

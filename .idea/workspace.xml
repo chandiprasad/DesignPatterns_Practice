@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="632ad7b1-4521-4392-890e-0830d1d3ce3e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PalantiriManagerApplication/updated/test/bin/classes/" />
+    <ignored path="$PROJECT_DIR$/CoreJava/Algorithms/bin/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app01a/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app01b/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app01c/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app02a/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app03a/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app04a/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app05a/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app06a/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app06b/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app06c/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app07a/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app08a/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app09a/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app10a/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app11a/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12a/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12b/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12c/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12d/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12e/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app13a/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app14a/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app14b/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app15a/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app16a/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app16b/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app16c/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app17a/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app17b/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app18a/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app18b/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app19a/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app20a/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app20b/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app21a/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app21b/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app22a/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app23a/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app23b/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app24a/WebContent/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/BarrierTaskGang/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/BuggyQueue/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/BusySynchronizedQueue/bin/" />
+    <ignored path="$PROJECT_DIR$/CoreJava/CoreJava/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/DeadlockQueue/bin/" />
+    <ignored path="$PROJECT_DIR$/CoreJava/DesignPatterns/bin/" />
+    <ignored path="$PROJECT_DIR$/Mocking/DS_ALGOS/bin/" />
+    <ignored path="$PROJECT_DIR$/CoreJava/effective-java-examples-master/effective-java-examples-master/target/classes/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex1/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex2/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex3/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex4/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex5/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex6/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex7/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex8/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ExpressionTree/bin/classes/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ImageTaskGangApplication/bin/classes/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/initializer/deploy/" />
+    <ignored path="$PROJECT_DIR$/CoreJava/Java8InAction/bin/" />
+    <ignored path="$PROJECT_DIR$/JAX-RS-Project/Jersy-Sample/build/classes/" />
+    <ignored path="$PROJECT_DIR$/CoreJava/JS-Practice/bin/" />
+    <ignored path="$PROJECT_DIR$/Mocking/Mockito-Demo/bin/" />
+    <ignored path="$PROJECT_DIR$/Mocking/Mockito-Demo2/bin/" />
+    <ignored path="$PROJECT_DIR$/Mocking/MockitoDemo2/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PalantiriManagerApplication/updated/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PalantiriManagerApplication/original/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PingPongApplication/bin/classes/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PingPongWrong/bin/" />
+    <ignored path="$PROJECT_DIR$/CoreJava/SampleJava/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/SearchTaskGang/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/SimpleAtomicLong/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/SimpleBlockingQueue/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ThreadedDownloads/bin/classes/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ThreadJoinTest/original/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ThreadJoinTest/updated-stream/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ThreadJoinTest/updated/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/UserOrDaemonExecutor/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/UserOrDaemonRunnable/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/UserOrDaemonThread/bin/" />
+    <ignored path="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/UserThreadInterrupted/bin/" />
+    <ignored path="$PROJECT_DIR$/CoreJava/Verify1/bin/" />
+    <ignored path="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/webfragment/deploy/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/pet-sitter" value="60988442294000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="706" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAVA_Practice" type="58d84e3e:PackageViewProjectNode" />
+              <item name="PalantirManagerAppAsync" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="JAVA_Practice" type="58d84e3e:PackageViewProjectNode" />
+              <item name="PalantirManagerAppAsync" type="616d4139:PackageViewModuleNode" />
+              <item name="utils" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAVA_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Problems">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PingPongApplication" type="cbb8eebc:String" user="PingPongApplication" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PingPongApplication" type="cbb8eebc:String" user="PingPongApplication" />
+              <item name="Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PingPongApplication" type="cbb8eebc:String" user="Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PingPongApplication" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PingPongApplication" type="cbb8eebc:String" user="PingPongApplication" />
+              <item name="Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PingPongApplication" type="cbb8eebc:String" user="Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PingPongApplication" />
+              <item name="gen" type="cbb8eebc:String" user="gen" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.PingPongApplication">
+    <configuration name="PingPongApplication" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="PingPongApplication" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="632ad7b1-4521-4392-890e-0830d1d3ce3e" name="Default" comment="" />
+      <created>1509175129296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509175129296</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="706" extended-state="0" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32695252" sideWeight="0.50729924" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.49270073" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32695252" sideWeight="0.49270073" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961714" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PalantiriManagerApplication/updated/src/utils/StreamsUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJava/Algorithms/src/practice/udemy/algos/queue/Queue.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

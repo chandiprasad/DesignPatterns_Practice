@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;practice.udemy.algos.recursion.Recursion&apos; to &apos;TowersOfHanoi&apos;&#x0D;&#x0A;- Original project: &apos;Algorithms&apos;&#x0D;&#x0A;- Original element: &apos;practice.udemy.algos.recursion.Recursion&apos;&#x0D;&#x0A;- Renamed element: &apos;practice.udemy.algos.recursion.TowersOfHanoi&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Recursion&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;practice.udemy.algos.recursion{Recursion.java[Recursion" matchStrategy="1" name="TowersOfHanoi" qualified="false" references="true" similarDeclarations="false" stamp="1497949301739" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PalantiriManagerApplication/updated/test/A1-Java-Test.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PalantiriManagerApplication/updated/test/A1-Java-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJava/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/CoreJava/Algorithms/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/BarrierTaskGang/BarrierTaskGang.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/BarrierTaskGang/BarrierTaskGang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/BuggyQueue/BuggyQueue.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/BuggyQueue/BuggyQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/BusySynchronizedQueue/BusySynchronizedQueue.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/BusySynchronizedQueue/BusySynchronizedQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJava/CoreJava/CoreJava.iml" filepath="$PROJECT_DIR$/CoreJava/CoreJava/CoreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mocking/DS_ALGOS/DS_ALGOS.iml" filepath="$PROJECT_DIR$/Mocking/DS_ALGOS/DS_ALGOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/DeadlockQueue/DeadlockQueue.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/DeadlockQueue/DeadlockQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJava/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/CoreJava/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex1/Example1.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex1/Example1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex2/Example2.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex2/Example2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex3/Example3.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex3/Example3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex4/Example4.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex4/Example4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex5/Example5.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex5/Example5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex6/Example6.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex6/Example6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex7/Example7.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex7/Example7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex8/Example8.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/Java8/ex8/Example8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ExpressionTree/ExpressionTree.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ExpressionTree/ExpressionTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ImageTaskGangApplication/ImageTaskGangApplication.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ImageTaskGangApplication/ImageTaskGangApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJava/JS-Practice/JS-Practice.iml" filepath="$PROJECT_DIR$/CoreJava/JS-Practice/JS-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJava/Java8InAction/Java8InAction.iml" filepath="$PROJECT_DIR$/CoreJava/Java8InAction/Java8InAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAX-RS-Project/Jersy-Sample/Jersy-Sample.iml" filepath="$PROJECT_DIR$/JAX-RS-Project/Jersy-Sample/Jersy-Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mocking/Mockito-Demo/Mockito-Demo.iml" filepath="$PROJECT_DIR$/Mocking/Mockito-Demo/Mockito-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mocking/Mockito-Demo2/Mockito-Demo2.iml" filepath="$PROJECT_DIR$/Mocking/Mockito-Demo2/Mockito-Demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mocking/MockitoDemo2/MockitoDemo2.iml" filepath="$PROJECT_DIR$/Mocking/MockitoDemo2/MockitoDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PalantiriManagerApplication/updated/PalantirManagerAppAsync.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PalantiriManagerApplication/updated/PalantirManagerAppAsync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PalantiriManagerApplication/original/PalantirManagerAppSync.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PalantiriManagerApplication/original/PalantirManagerAppSync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PingPongApplication/PingPongApplication.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PingPongApplication/PingPongApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PingPongWrong/PingPongWrong.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/PingPongWrong/PingPongWrong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJava/SampleJava/SampleJava.iml" filepath="$PROJECT_DIR$/CoreJava/SampleJava/SampleJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/SearchTaskGang/SearchTaskGang.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/SearchTaskGang/SearchTaskGang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/SimpleAtomicLong/SimpleAtomicLong.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/SimpleAtomicLong/SimpleAtomicLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/SimpleBlockingQueue/SimpleBlockingQueue.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/SimpleBlockingQueue/SimpleBlockingQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ThreadJoinTest/original/ThreadJoinTest.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ThreadJoinTest/original/ThreadJoinTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ThreadJoinTest/updated-stream/ThreadJoinTest (stream).iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ThreadJoinTest/updated-stream/ThreadJoinTest (stream).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ThreadJoinTest/updated/ThreadJoinTest (updated).iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ThreadJoinTest/updated/ThreadJoinTest (updated).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ThreadedDownloads/ThreadedDownloads.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/ThreadedDownloads/ThreadedDownloads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/UserOrDaemonExecutor/UserOrDaemonExecutor.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/UserOrDaemonExecutor/UserOrDaemonExecutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/UserOrDaemonRunnable/UserOrDaemonRunnable.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/UserOrDaemonRunnable/UserOrDaemonRunnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/UserOrDaemonThread/UserOrDaemonThread.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/UserOrDaemonThread/UserOrDaemonThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/UserThreadInterrupted/UserThreadInterrupted.iml" filepath="$PROJECT_DIR$/Java_Concurrency_LiveLessons/LiveLessons-master/LiveLessons-master/UserThreadInterrupted/UserThreadInterrupted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJava/Verify1/Verify1.iml" filepath="$PROJECT_DIR$/CoreJava/Verify1/Verify1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app01a/app01a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app01a/app01a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app01b/app01b.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app01b/app01b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app01c/app01c.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app01c/app01c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app02a/app02a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app02a/app02a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app03a/app03a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app03a/app03a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app04a/app04a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app04a/app04a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app05a/app05a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app05a/app05a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app06a/app06a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app06a/app06a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app06b/app06b.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app06b/app06b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app06c/app06c.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app06c/app06c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app07a/app07a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app07a/app07a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app08a/app08a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app08a/app08a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app09a/app09a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app09a/app09a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app10a/app10a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app10a/app10a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app11a/app11a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app11a/app11a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12a/app12a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12a/app12a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12b/app12b.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12b/app12b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12c/app12c.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12c/app12c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12d/app12d.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12d/app12d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12e/app12e.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app12e/app12e.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app13a/app13a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app13a/app13a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app14a/app14a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app14a/app14a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app14b/app14b.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/app14b/app14b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app15a/app15a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app15a/app15a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app16a/app16a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app16a/app16a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app16b/app16b.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app16b/app16b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app16c/app16c.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app16c/app16c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app17a/app17a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app17a/app17a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app17b/app17b.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app17b/app17b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app18a/app18a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app18a/app18a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app18b/app18b.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app18b/app18b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app19a/app19a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app19a/app19a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app20a/app20a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app20a/app20a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app20b/app20b.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app20b/app20b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app21a/app21a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app21a/app21a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app21b/app21b.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app21b/app21b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app22a/app22a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app22a/app22a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app23a/app23a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app23a/app23a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app23b/app23b.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app23b/app23b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app24a/app24a.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/springmvc-examples/app24a/app24a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJava/effective-java-examples-master/effective-java-examples-master/effective-java-examples.iml" filepath="$PROJECT_DIR$/CoreJava/effective-java-examples-master/effective-java-examples-master/effective-java-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/initializer/initializer.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/initializer/initializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/webfragment/webfragment.iml" filepath="$PROJECT_DIR$/Servlets_JSP_MVC/servletjsp-examples/webfragment/webfragment.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;dp.creational.DoubleCheckSingleton&apos; to &apos;DoubleCheckedSingleton&apos;&#x0D;&#x0A;- Original project: &apos;DesignPatterns&apos;&#x0D;&#x0A;- Original element: &apos;dp.creational.DoubleCheckSingleton&apos;&#x0D;&#x0A;- Renamed element: &apos;dp.creational.DoubleCheckedSingleton&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;DoubleCheckSingleton&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;dp.creational{DoubleCheckSingleton.java[DoubleCheckSingleton" matchStrategy="1" name="DoubleCheckedSingleton" qualified="false" references="true" similarDeclarations="false" stamp="1505843791204" textual="false" version="1.0"/>
+</session>

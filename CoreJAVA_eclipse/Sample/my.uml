@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_8T69AJLrEeebI6Nnc60YPw" name="NewModel">
+  <packagedElement xmi:type="uml:Interaction" xmi:id="_eG_18JLsEeebI6Nnc60YPw" name="Scenario_0"/>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_kAYrMJLsEeebI6Nnc60YPw" name="NewModel" group="_xbIxYJLyEeebI6Nnc60YPw" partition="_xbIxYJLyEeebI6Nnc60YPw">
+    <group xmi:type="uml:ActivityPartition" xmi:id="_xbIxYJLyEeebI6Nnc60YPw" name="ActivityPartition1"/>
+  </packagedElement>
+</uml:Model>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="HamcrestExamplesTest" project="Mockito-Demo" tests="19" started="19" failures="0" errors="0" ignored="0">
+  <testsuite name="com.mockito.tests.HamcrestExamplesTest" time="0.017">
+    <testcase name="anyOfExampleReturnsTrueIfOneMatches" classname="com.mockito.tests.HamcrestExamplesTest" time="0.006"/>
+    <testcase name="isExampleShortCutAsJustSyntacticSugarUsedThreeTimes" classname="com.mockito.tests.HamcrestExamplesTest" time="0.001"/>
+    <testcase name="describedAsExample" classname="com.mockito.tests.HamcrestExamplesTest" time="0.003"/>
+    <testcase name="instanceOfExampleForString" classname="com.mockito.tests.HamcrestExamplesTest" time="0.0"/>
+    <testcase name="anyExampleChecksThatClassIsOfSameType" classname="com.mockito.tests.HamcrestExamplesTest" time="0.0"/>
+    <testcase name="nullValueExampleWithANull" classname="com.mockito.tests.HamcrestExamplesTest" time="0.001"/>
+    <testcase name="allOfExampleShowsFailingIfOneMatcherDoesNotMatch" classname="com.mockito.tests.HamcrestExamplesTest" time="0.001"/>
+    <testcase name="anythingExampleAlwaysReturnsTrue" classname="com.mockito.tests.HamcrestExamplesTest" time="0.0"/>
+    <testcase name="anyExampleShowsStringIsAlsoAnObject" classname="com.mockito.tests.HamcrestExamplesTest" time="0.0"/>
+    <testcase name="equalToExampleAddingTwoPlusTwo" classname="com.mockito.tests.HamcrestExamplesTest" time="0.0"/>
+    <testcase name="nullValueExampleWithANullType" classname="com.mockito.tests.HamcrestExamplesTest" time="0.001"/>
+    <testcase name="allOfExampleShowsAllMatchersMustAllBeTrue" classname="com.mockito.tests.HamcrestExamplesTest" time="0.0"/>
+    <testcase name="isExampleShortCutForIsEqualTo" classname="com.mockito.tests.HamcrestExamplesTest" time="0.001"/>
+    <testcase name="isExampleShortCutForIsInstanceOfClass" classname="com.mockito.tests.HamcrestExamplesTest" time="0.0"/>
+    <testcase name="notNullValueExampleForAClass" classname="com.mockito.tests.HamcrestExamplesTest" time="0.0"/>
+    <testcase name="sameInstanceExample" classname="com.mockito.tests.HamcrestExamplesTest" time="0.002"/>
+    <testcase name="anyOfExampleFailingIfAllMatchersAreFalse" classname="com.mockito.tests.HamcrestExamplesTest" time="0.0"/>
+    <testcase name="notNullValueExampleForString" classname="com.mockito.tests.HamcrestExamplesTest" time="0.0"/>
+    <testcase name="notExampleJustInvertsExpression" classname="com.mockito.tests.HamcrestExamplesTest" time="0.001"/>
+  </testsuite>
+</testrun>

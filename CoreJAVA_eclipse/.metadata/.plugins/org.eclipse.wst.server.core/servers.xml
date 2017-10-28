@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="1" hostname="Cloud" id="IBM Bluemix" name="IBM Bluemix" org.eclipse.cft.org="csannidh@in.ibm.com" org.eclipse.cft.passcode="EovYc9kaGS" org.eclipse.cft.serverId="csannidh@in.ibm.com_csannidh@in.ibm.com_dev@https://api.ng.bluemix.net" org.eclipse.cft.space="dev" org.eclipse.cft.sso="true" org.eclipse.cft.url="https://api.ng.bluemix.net" org.eclipse.cft.username="csannidh@in.ibm.com" runtime-id="IBM Bluemix Runtime" server-type="com.ibm.cftools.server" server-type-id="com.ibm.cftools.server" start-timeout="600" stop-timeout="60" timestamp="0"/>
+  <server hostname="localhost" id="HTTP Preview at localhost" name="HTTP Preview at localhost" runtime-id="HTTP Preview" server-type="org.eclipse.wst.server.preview.server" server-type-id="org.eclipse.wst.server.preview.server" start-timeout="240" stop-timeout="240" timestamp="1">
+    <list key="modules" value0="JS-Practice::org.eclipse.wst.web.internal.deployables.static:JS-Practice::wst.web::1.0"/>
+  </server>
+</servers>

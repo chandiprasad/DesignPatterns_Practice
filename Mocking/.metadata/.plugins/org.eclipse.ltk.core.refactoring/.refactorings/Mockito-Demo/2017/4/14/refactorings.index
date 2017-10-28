@@ -1,0 +1,22 @@
+1491631231805	Rename package 'com.ibm.demo'
+1491631300946	Rename package 'com.mockito.demo'
+1491631327258	Rename package 'com.mockito.models'
+1491631474353	Delete element
+1491631478327	Delete element
+1491631519157	Rename resource 'target'
+1491631523838	Delete element
+1491631553206	Delete element
+1491631569139	Delete element
+1491631594618	Delete element
+1491631599282	Delete element
+1491631616325	Delete element
+1491632212073	Delete element
+1491632294830	Move compilation unit
+1491632349512	Rename type 'BookDAL'
+1491632624367	Rename type 'BookDao'
+1491632654133	Rename type 'BookDAL'
+1491633473907	Rename type 'BookDALTest'
+1491634191923	Rename field 'mockedBookDAL'
+1491649579653	Rename type 'MockitoDemo'
+1491649659257	Rename type 'HamcrestExamples'
+1491649770142	Delete element

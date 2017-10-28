@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MockitoTest" project="Mockito-Demo" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="com.mockito.tests.MockitoTest" time="0.302">
+    <testcase name="test1" classname="com.mockito.tests.MockitoTest" time="0.209"/>
+    <testcase name="test2" classname="com.mockito.tests.MockitoTest" time="0.021"/>
+    <testcase name="test3" classname="com.mockito.tests.MockitoTest" time="0.005"/>
+    <testcase name="test4" classname="com.mockito.tests.MockitoTest" time="0.006"/>
+    <testcase name="test5" classname="com.mockito.tests.MockitoTest" time="0.059"/>
+  </testsuite>
+</testrun>

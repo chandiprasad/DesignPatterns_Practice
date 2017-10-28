@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;app12d/WebContent/Logout&apos; to &apos;Logout.html&apos;" description="Rename resource &apos;Logout&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/Logout" name="Logout.html" stamp="1479909401460" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;app12d/WebContent/Logout.html&apos; to &apos;logout.html&apos;" description="Rename resource &apos;Logout.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/Logout.html" name="logout.html" stamp="1479909420183" updateReferences="true"/>
+</session>

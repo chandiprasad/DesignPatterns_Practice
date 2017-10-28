@@ -1,0 +1,13 @@
+
+Ë%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(±ê´ûÿÿÿÿ8×Áõµã+HRMINORZ
+CODE_SMELL
+l
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Õ‹…8ŒŠ¶ã+H‚RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç‰ìã8×Áõµã+HƒRMAJORZ
+CODE_SMELL
+Ë%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(°éîöıÿÿÿÿ8®Åñµã+H„RMINORZ
+CODE_SMELL
+Æ%squid:RedundantThrowsDeclarationCheck%"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(Á‹¹Ç8ï›·¶ã+H…RMINORZ
+CODE_SMELL

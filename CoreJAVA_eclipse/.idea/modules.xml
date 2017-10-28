@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JS-Practice/JS-Practice.iml" filepath="$PROJECT_DIR$/JS-Practice/JS-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8InAction/Java8InAction.iml" filepath="$PROJECT_DIR$/Java8InAction/Java8InAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" filepath="$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample/Sample.iml" filepath="$PROJECT_DIR$/Sample/Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleJava/SampleJava.iml" filepath="$PROJECT_DIR$/SampleJava/SampleJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Verify1/Verify1.iml" filepath="$PROJECT_DIR$/Verify1/Verify1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/effective-java-examples-master/effective-java-examples-master/effective-java-examples.iml" filepath="$PROJECT_DIR$/effective-java-examples-master/effective-java-examples-master/effective-java-examples.iml" />
+    </modules>
+  </component>
+</project>
