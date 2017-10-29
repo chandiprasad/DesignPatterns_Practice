@@ -1,0 +1,40 @@
+@startuml
+
+skinparam class {
+	BackgroundColor white
+	ArrowColor Red
+	BorderColor SpringGreen
+	BackgroundColor<<Car>> Wheat
+	BorderColor<<Car>> Tomato
+}
+skinparam stereotypeCBackgroundColor YellowGreen
+skinparam stereotypeCBackgroundColor<< Car >> DimGray
+
+interface Car {
+   + void assemble()
+}
+class BasicCar {
+ + BasicCar()
+ + void assemble()
+}
+
+class CarDecorator {
+ + CarDecorator()
+ + void assemble()
+}
+class LuxuryCar {
+    + SportsCar()
+ + void assemble()
+}
+class SportsCar {
+    + SportsCar()
+    + void assemble()
+}
+
+Car <|.. BasicCar
+CarDecorator .left.* Car : 0..1
+CarDecorator <|-down- LuxuryCar
+CarDecorator <|-- SportsCar
+
+
+@enduml
