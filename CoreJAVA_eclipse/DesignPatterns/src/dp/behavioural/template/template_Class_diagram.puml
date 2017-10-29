@@ -1,0 +1,26 @@
+@startuml
+
+abstract HouseTemplate {
+    -void buildWindows()
+    +final void buildHouse()
+    - void buildWindows()
+    +abstract void buildWalls()
+    +abstract void buildPillars()
+    -void buildFoundation()
+}
+class WoodenHouse{
++WoodenHouse()
++ void buildWalls()
++ void buildPillars()
+}
+
+class GlassHouse{
++GlassHouse()
++ void buildWalls()
++ void buildPillars()
+}
+
+HouseTemplate <|--WoodenHouse
+HouseTemplate <|--GlassHouse
+
+@enduml
