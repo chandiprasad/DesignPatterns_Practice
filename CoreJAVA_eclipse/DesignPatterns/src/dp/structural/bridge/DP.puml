@@ -1,0 +1,45 @@
+@startuml
+
+
+skinparam class {
+	BackgroundColor PaleGreen
+	ArrowColor SeaGreen
+	BorderColor SpringGreen
+}
+skinparam stereotypeCBackgroundColor YellowGreen
+
+interface Color {
+ void applyColor()
+}
+
+abstract class Shape{
+ Shape(Color)
+ void {abstract} applyColor()
+}
+
+
+class GreenColor{
+ void applyColor();
+ GreenColor(Color)
+}
+class RedColor {
+applyColor()
+RedColor(Color)
+}
+class Pentagon {
+applyColor():void
+Pentagon(Color)
+}
+class Triangle {
+applyColor()
+Triangle(Color)
+}
+
+
+Color <|.. GreenColor
+Triangle -up-|> Shape
+Pentagon -up-|> Shape
+Color <|.. RedColor
+Color*-left- Shape
+
+@enduml
